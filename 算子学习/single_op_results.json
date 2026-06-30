@@ -1,0 +1,74 @@
+[
+    {
+        "op_name": "local_conv",
+        "avg_best_acc": 47.27,
+        "avg_acc_std": 1.7850000000000001,
+        "seed_results": [
+            {
+                "best_acc": 47.27,
+                "acc_std": 1.7850000000000001,
+                "seed": 42
+            }
+        ]
+    },
+    {
+        "op_name": "dilated_conv",
+        "avg_best_acc": 50.7,
+        "avg_acc_std": 2.9800000000000004,
+        "seed_results": [
+            {
+                "best_acc": 50.7,
+                "acc_std": 2.9800000000000004,
+                "seed": 42
+            }
+        ]
+    },
+    {
+        "op_name": "1x1_conv",
+        "avg_best_acc": 19.5,
+        "avg_acc_std": 0.10500000000000043,
+        "seed_results": [
+            {
+                "best_acc": 19.5,
+                "acc_std": 0.10500000000000043,
+                "seed": 42
+            }
+        ]
+    },
+    {
+        "op_name": "freq_op",
+        "avg_best_acc": 20.7,
+        "avg_acc_std": 0.8100000000000005,
+        "seed_results": [
+            {
+                "best_acc": 20.7,
+                "acc_std": 0.8100000000000005,
+                "seed": 42
+            }
+        ]
+    },
+    {
+        "op_name": "morph_op",
+        "avg_best_acc": 41.83,
+        "avg_acc_std": 2.5700000000000003,
+        "seed_results": [
+            {
+                "best_acc": 41.83,
+                "acc_std": 2.5700000000000003,
+                "seed": 42
+            }
+        ]
+    },
+    {
+        "op_name": "channel_perm",
+        "avg_best_acc": 20.78,
+        "avg_acc_std": 0.6750000000000007,
+        "seed_results": [
+            {
+                "best_acc": 20.78,
+                "acc_std": 0.6750000000000007,
+                "seed": 42
+            }
+        ]
+    }
+]

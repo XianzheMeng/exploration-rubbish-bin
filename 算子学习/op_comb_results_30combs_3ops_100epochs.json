@@ -1,0 +1,322 @@
+[
+    {
+        "op_comb": "local_conv+dilated_conv+1x1_conv",
+        "volume_score": 0.7858442664146423,
+        "best_acc": 79.79,
+        "acc_std": 8.730807909924488,
+        "seed_result": {
+            "best_acc": 79.79,
+            "acc_std": 8.730807909924488,
+            "op_comb": [
+                "local_conv",
+                "dilated_conv",
+                "1x1_conv"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "local_conv+dilated_conv+freq_op",
+        "volume_score": 0.7793410420417786,
+        "best_acc": 79.82,
+        "acc_std": 7.862868750653287,
+        "seed_result": {
+            "best_acc": 79.82,
+            "acc_std": 7.862868750653287,
+            "op_comb": [
+                "local_conv",
+                "dilated_conv",
+                "freq_op"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "local_conv+dilated_conv+morph_op",
+        "volume_score": 0.7696491479873657,
+        "best_acc": 79.87,
+        "acc_std": 7.609508541292269,
+        "seed_result": {
+            "best_acc": 79.87,
+            "acc_std": 7.609508541292269,
+            "op_comb": [
+                "local_conv",
+                "dilated_conv",
+                "morph_op"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "local_conv+dilated_conv+channel_perm",
+        "volume_score": 0.7813037633895874,
+        "best_acc": 80.19,
+        "acc_std": 8.290124348283323,
+        "seed_result": {
+            "best_acc": 80.19,
+            "acc_std": 8.290124348283323,
+            "op_comb": [
+                "local_conv",
+                "dilated_conv",
+                "channel_perm"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "local_conv+1x1_conv+freq_op",
+        "volume_score": 0.7790664434432983,
+        "best_acc": 78.66,
+        "acc_std": 9.3101368684891,
+        "seed_result": {
+            "best_acc": 78.66,
+            "acc_std": 9.3101368684891,
+            "op_comb": [
+                "local_conv",
+                "1x1_conv",
+                "freq_op"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "local_conv+1x1_conv+morph_op",
+        "volume_score": 0.7905704975128174,
+        "best_acc": 77.61,
+        "acc_std": 8.30193575679793,
+        "seed_result": {
+            "best_acc": 77.61,
+            "acc_std": 8.30193575679793,
+            "op_comb": [
+                "local_conv",
+                "1x1_conv",
+                "morph_op"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "local_conv+1x1_conv+channel_perm",
+        "volume_score": 0.7830570936203003,
+        "best_acc": 78.79,
+        "acc_std": 9.567301032161577,
+        "seed_result": {
+            "best_acc": 78.79,
+            "acc_std": 9.567301032161577,
+            "op_comb": [
+                "local_conv",
+                "1x1_conv",
+                "channel_perm"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "local_conv+freq_op+morph_op",
+        "volume_score": 0.7394580841064453,
+        "best_acc": 78.9,
+        "acc_std": 7.706512638022468,
+        "seed_result": {
+            "best_acc": 78.9,
+            "acc_std": 7.706512638022468,
+            "op_comb": [
+                "local_conv",
+                "freq_op",
+                "morph_op"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "local_conv+freq_op+channel_perm",
+        "volume_score": 0.7452360391616821,
+        "best_acc": 78.82,
+        "acc_std": 8.5777855906988,
+        "seed_result": {
+            "best_acc": 78.82,
+            "acc_std": 8.5777855906988,
+            "op_comb": [
+                "local_conv",
+                "freq_op",
+                "channel_perm"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "local_conv+morph_op+channel_perm",
+        "volume_score": 0.6794804334640503,
+        "best_acc": 79.23,
+        "acc_std": 8.254517827226495,
+        "seed_result": {
+            "best_acc": 79.23,
+            "acc_std": 8.254517827226495,
+            "op_comb": [
+                "local_conv",
+                "morph_op",
+                "channel_perm"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "dilated_conv+1x1_conv+freq_op",
+        "volume_score": 0.7341299057006836,
+        "best_acc": 79.14,
+        "acc_std": 9.577467903365692,
+        "seed_result": {
+            "best_acc": 79.14,
+            "acc_std": 9.577467903365692,
+            "op_comb": [
+                "dilated_conv",
+                "1x1_conv",
+                "freq_op"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "dilated_conv+1x1_conv+morph_op",
+        "volume_score": 0.7435101866722107,
+        "best_acc": 78.26,
+        "acc_std": 8.382458395363498,
+        "seed_result": {
+            "best_acc": 78.26,
+            "acc_std": 8.382458395363498,
+            "op_comb": [
+                "dilated_conv",
+                "1x1_conv",
+                "morph_op"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "dilated_conv+1x1_conv+channel_perm",
+        "volume_score": 0.7347080111503601,
+        "best_acc": 79.02,
+        "acc_std": 9.346929555206886,
+        "seed_result": {
+            "best_acc": 79.02,
+            "acc_std": 9.346929555206886,
+            "op_comb": [
+                "dilated_conv",
+                "1x1_conv",
+                "channel_perm"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "dilated_conv+freq_op+morph_op",
+        "volume_score": 0.7173658013343811,
+        "best_acc": 78.73,
+        "acc_std": 7.89625336219653,
+        "seed_result": {
+            "best_acc": 78.73,
+            "acc_std": 7.89625336219653,
+            "op_comb": [
+                "dilated_conv",
+                "freq_op",
+                "morph_op"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "dilated_conv+freq_op+channel_perm",
+        "volume_score": 0.7204322814941406,
+        "best_acc": 79.49,
+        "acc_std": 8.649963751947173,
+        "seed_result": {
+            "best_acc": 79.49,
+            "acc_std": 8.649963751947173,
+            "op_comb": [
+                "dilated_conv",
+                "freq_op",
+                "channel_perm"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "dilated_conv+morph_op+channel_perm",
+        "volume_score": 0.6583439707756042,
+        "best_acc": 78.86,
+        "acc_std": 7.544954382897223,
+        "seed_result": {
+            "best_acc": 78.86,
+            "acc_std": 7.544954382897223,
+            "op_comb": [
+                "dilated_conv",
+                "morph_op",
+                "channel_perm"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "1x1_conv+freq_op+morph_op",
+        "volume_score": 0.7260581851005554,
+        "best_acc": 69.52,
+        "acc_std": 8.273848934443993,
+        "seed_result": {
+            "best_acc": 69.52,
+            "acc_std": 8.273848934443993,
+            "op_comb": [
+                "1x1_conv",
+                "freq_op",
+                "morph_op"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "1x1_conv+freq_op+channel_perm",
+        "volume_score": 0.713469922542572,
+        "best_acc": 26.69,
+        "acc_std": 1.8963229550896652,
+        "seed_result": {
+            "best_acc": 26.69,
+            "acc_std": 1.8963229550896652,
+            "op_comb": [
+                "1x1_conv",
+                "freq_op",
+                "channel_perm"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "1x1_conv+morph_op+channel_perm",
+        "volume_score": 0.6670214533805847,
+        "best_acc": 70.58,
+        "acc_std": 8.346679912396304,
+        "seed_result": {
+            "best_acc": 70.58,
+            "acc_std": 8.346679912396304,
+            "op_comb": [
+                "1x1_conv",
+                "morph_op",
+                "channel_perm"
+            ],
+            "seed": 42
+        }
+    },
+    {
+        "op_comb": "freq_op+morph_op+channel_perm",
+        "volume_score": 0.6246728301048279,
+        "best_acc": 69.43,
+        "acc_std": 8.167007806412334,
+        "seed_result": {
+            "best_acc": 69.43,
+            "acc_std": 8.167007806412334,
+            "op_comb": [
+                "freq_op",
+                "morph_op",
+                "channel_perm"
+            ],
+            "seed": 42
+        }
+    }
+]

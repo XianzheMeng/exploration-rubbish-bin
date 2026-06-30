@@ -1,0 +1,19 @@
+[
+    {
+        "op_comb": "local_conv+1x1_conv",
+        "volume_score": 0.9316356778144836,
+        "avg_best_acc": 55.36,
+        "avg_acc_std": 7.488394754551874,
+        "seed_results": [
+            {
+                "best_acc": 55.36,
+                "acc_std": 7.488394754551874,
+                "op_comb": [
+                    "local_conv",
+                    "1x1_conv"
+                ],
+                "seed": 42
+            }
+        ]
+    }
+]
