@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AI Safety/HarmBench" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AutoResearchClaw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DSN/DSN code/HD3C" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DSN/DSN code/HD3C2/HD3C" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DSN/DSN code/HD3COri" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DSN代码(1)/DSN代码/HD3C" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DSN代码(1)/DSN代码/HD3C2/HD3C" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DSN代码(1)/DSN代码/HD3COri" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/brain-safety/HarmBench" vcs="Git" />
+  </component>
+</project>
